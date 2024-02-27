@@ -9,12 +9,12 @@
   .profile .tagline {
     font-weight: 700;
     letter-spacing: 0.8px;
-    padding:14px 10px 4px 10px;
+    padding:10px 10px 0px 10px;
     background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
     font-size: 20px;
     margin-bottom: 16px;
     display: inline-block;
-    width: 140px;
+    width: 155px;
   }
   .profile h1 {
     font-size: 65px;
@@ -34,18 +34,18 @@
   .action-btns {
     display: flex;
     width: 800px;
-    margin-top: 50px;
+    margin-top: 40px;
     a{
       text-decoration: none;
       display: block;
       width: auto;
-      margin-right: 10px;
+      margin-right: 20px;
     }
     button {
       border: #B8B8B8 1px solid;
-      border-radius: 10px;
-      padding: 10px 15px;
-      /* background-color: #B8B8B8; */
+      border-radius: 0px;
+      padding: 15px 20px;
+      height: 60px;
     }
   }
   .profile button {
@@ -56,6 +56,10 @@
     letter-spacing: 0.8px;
     display: flex;
     align-items: center;
+  }
+
+  .profile button:hover{
+    background-color: #b8b8b8b0;
   }
   .profile button svg {
     font-size: 25px;

@@ -24,22 +24,22 @@ export default function () {
               <Typical
                 loop={Infinity}
                 steps={[
-                  "Developer",
+                  "DEVELOPER",
                   1000,
-                  "React",
+                  "REACT",
                   1000,
-                  "Java",
+                  "JAVA",
                   1000,
-                  "Agile",
+                  "AGILE",
                   1000,
-                  "Cool",
+                  "COOL",
                   1000,
-                  "Enthusiastic",
+                  "ENTHUSIASTIC",
                   1000,
-                  "Innovative",
+                  "INNOVATIVE",
                   1000,
                 ]}
-              />{" "}
+              />
             </span>
             <h1>{"Hi! I'm Michelle"}</h1>
             <p>

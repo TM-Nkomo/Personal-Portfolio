@@ -53,9 +53,6 @@ function Navigation() {
                             <FontAwesomeIcon icon={faEnvelope} />
                         </a>
                     </div>
-                    <button className='vvd' onClick={() => console.log('connect')}>
-                        <span>Connect</span>
-                    </button>
                 </span>
                 
             </Nav>
