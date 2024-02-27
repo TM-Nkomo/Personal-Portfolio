@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Typical from "react-typical";
-import { Container, Row, Col, ButtonGroup } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -9,12 +9,6 @@ import "./styles/Profile.css";
 import headerImg from "./assets/header-img.svg";
 
 export default function () {
-  const toRotate = [
-    "Full Stack Developer",
-    "React/React Native",
-    "Enthusiastic",
-  ];
-
   return (
     <section className="profile" id="home">
       <Container>
