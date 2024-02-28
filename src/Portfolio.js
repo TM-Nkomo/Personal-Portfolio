@@ -9,7 +9,7 @@ import dp from "./assets/dp.png";
 import portf from "./assets/portfolio.png";
 import colorSharp2 from "./assets/color-sharp2.png";
 
-export default function () {
+export const Portfolio = () => {
     const responsive = {
         superLargeDesktop: {
           // the naming can be any, depends on you.
@@ -76,3 +76,4 @@ export default function () {
         </section>
     );
 }
+export default Portfolio;
