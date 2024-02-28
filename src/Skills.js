@@ -39,7 +39,7 @@ export default function () {
             <div className="skill-box">
               <h2> Skills</h2>
               <p> Check out what I'm good at!</p>
-              <Carousel responsive={responsive} infinite={true} className="skill-slider">
+              <Row>
                 <div className="skill-item">
                     <img src={thinking} alt="Critical Thinking"/>
                     <h5>Critical Thinking</h5>
@@ -64,7 +64,7 @@ export default function () {
                     <img src={brand} alt="Branding"/>
                     <h5>Branding</h5>
                 </div>
-              </Carousel>
+              </Row>
             </div>
           </Col>
         </Row>
