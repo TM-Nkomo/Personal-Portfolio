@@ -60,7 +60,7 @@ app.post("/api/contact", (req, res) => {
 
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, './build', 'server.html'))
-})
+});
 
 app.listen(PORT, () => {
   console.log(`Server running on port: ${PORT}`)
