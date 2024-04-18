@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.96cd48e0.css",
+    "main.js": "/personal-portfolio/static/js/main.2b64eab8.js",
+    "static/js/787.e02c0aaf.chunk.js": "/personal-portfolio/static/js/787.e02c0aaf.chunk.js",
+    "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/personal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/goonmart.png": "/personal-portfolio/static/media/goonmart.0868e4bf8c1ce116c1cc.png",
+    "static/media/portfolio.png": "/personal-portfolio/static/media/portfolio.8b15b1c6f00311df0147.png",
+    "static/media/sattack1.png": "/personal-portfolio/static/media/sattack1.89f633845432af375b20.png",
+    "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/personal-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/dp.png": "/personal-portfolio/static/media/dp.0d8f0c6b2759aba53778.png",
+    "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/thinking3.png": "/personal-portfolio/static/media/thinking3.b27b6ecea9eef68d93e1.png",
+    "static/media/dvt2.png": "/personal-portfolio/static/media/dvt2.783d27fafd6314fe4b0a.png",
+    "static/media/contact-img.svg": "/personal-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/brand1.png": "/personal-portfolio/static/media/brand1.94a4bbfff847a771733c.png",
+    "static/media/webres2.png": "/personal-portfolio/static/media/webres2.323e0355520b94ef0b80.png",
+    "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/collaboration.png": "/personal-portfolio/static/media/collaboration.7a1a3a79c45b1dcaf729.png",
+    "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/thinking1.svg": "/personal-portfolio/static/media/thinking1.e07283cf978aa18841fbe0b1568f690e.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.96cd48e0.css.map": "/personal-portfolio/static/css/main.96cd48e0.css.map",
+    "main.2b64eab8.js.map": "/personal-portfolio/static/js/main.2b64eab8.js.map",
+    "787.e02c0aaf.chunk.js.map": "/personal-portfolio/static/js/787.e02c0aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96cd48e0.css",
+    "static/js/main.2b64eab8.js"
+  ]
+}
