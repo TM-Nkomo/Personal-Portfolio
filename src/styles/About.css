@@ -1,9 +1,9 @@
-.skill {
+.about {
     padding: 0 0 50px 0;
     position: relative;
 }
 
-.skill-box {
+.about-box {
  border-radius: 64px;
  background-color: #151515;
  text-align: center;
@@ -11,30 +11,30 @@
  margin-top: -50px;
 }
 
-.skill h2 {
+.about h2 {
     font-size: 45px;
     font-weight: 700;
 }
 
-.skill p {
+.about p {
     color: #888;
     font-size: 18px;
     letter-spacing: 0.8px;
     line-height: 1.5em;
-    margin: 14px 0 75px 0;
+    margin: 14px 0 55px 0;
 }
 
-.skill-slider{
+.about-slider{
     width: 80%;
     margin: 0 auto;
     position: relative;
 }
 
-.skill-item {
+.about-item {
     width: 33%;
 }
 
-.skill-box img {
+.about-box img {
     width: 30%;
     margin: 15px;
 }

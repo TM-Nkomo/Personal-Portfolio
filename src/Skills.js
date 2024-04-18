@@ -40,7 +40,7 @@ export default function () {
               <h2> Skills</h2>
               <p> Check out what I'm good at!</p>
               <Row>
-                <div className="skill-item">
+                <div className="skill-item-1">
                     <img src={thinking} alt="Critical Thinking"/>
                     <h5>Critical Thinking</h5>
                 </div>
@@ -48,7 +48,7 @@ export default function () {
                     <img src={dvt} alt="Development"/>
                     <h5> Development</h5>
                 </div>
-                <div className="skill-item">
+                <div className="skill-item-1">
                     <img src={webres} alt="Responsive Web Design"/>
                     <h5>Responsive Design</h5>
                 </div>

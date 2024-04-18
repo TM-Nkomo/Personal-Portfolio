@@ -5,7 +5,7 @@
 
 .skill-box {
  border-radius: 64px;
- background-color: #151515;
+ background-color: rgba(87, 20, 87, 0.945) !important;
  text-align: center;
  padding: 60px 50px;
  margin-top: -50px;
@@ -33,9 +33,13 @@
 .skill-item {
     width: 33%;
 }
+.skill-item-1 {
+    width: 33%;
+}
 
 .skill-box img {
     width: 30%;
+    height: 60%;
     margin: 15px;
 }
 

@@ -48,8 +48,8 @@ export default function () {
               </button>
               
             </a>
-              <button onClick={() => console.log("connect")}>
-              Contact Me <ArrowRightCircle size={25} />{" "}
+              <button>
+              <a href="#connect" className="contact-btn">Contact Me <ArrowRightCircle size={25} /></a>{" "}
             </button>
             </span>
           </Col>

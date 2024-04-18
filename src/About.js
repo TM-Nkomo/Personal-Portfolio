@@ -6,30 +6,33 @@ import colorSharp from "./assets/color-sharp.png"
 export default function () {
 
   return (
-    <section className="skill" id="about">
+    <section className="about" id="about">
       <Container>
         <Row>
           <Col>
-            <div className="skill-box">
+            <div className="about-box">
               <h2> About Me</h2>
               <br/> <br/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute 
-                irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-                deserunt mollit anim id est laborum.</p>
-                <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque 
-                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi 
-                architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas 
-                sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione 
-                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit 
-                amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut 
-                labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
-                nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi 
-                consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam 
-                nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+              <p>My love for computers began at a young age, sparked by my curiosity to understand how these machines worked and the 
+                endless possibilities they offered. This passion led me to pursue a Bachelor of Science in Computer Science at the 
+                University of Witwatersrand, where I delved into the intricate world of software engineering and machine learning. </p>
+                
+              <p> Upon graduation, I embarked on a professional journey as a Junior Software Developer at a dynamic company in Johannesburg, 
+                specializing in Business Intelligence. Here, I have had the opportunity to apply my skills in Java, JavaScript, HTML, 
+                CSS, and React, working collaboratively with teams to deliver innovative solutions. My role has exposed me to various tools and methodologies, including GitHub for version control and Jira for project 
+                management, enhancing my understanding of software development lifecycles. Additionally, working with Backendless has 
+                deepened my knowledge of backend technologies and data management. </p>
+                
+              <p> Driven by a thirst for knowledge, I am constantly seeking to expand my skill set and stay abreast of emerging 
+                technologies and trends in the ever-evolving field of computer science. In my spare time, I channel my creativity 
+                into side projects, where I can experiment with new concepts and technologies, fueling my desire for growth and 
+                innovation. Outside of the professional realm, I indulge in hobbies such as playing chess, which not only sharpens my strategic 
+                thinking but also teaches me the importance of foresight and planning. I also find solace in running, embracing the 
+                challenge it presents and relishing the opportunity to push my physical boundaries. </p>
+                
+              <p> Ultimately, my aspiration is to make a meaningful impact in the field of computer science, leveraging my skills and 
+                experiences to contribute to advancements that shape the future. With dedication, perseverance, and a relentless 
+                pursuit of excellence, I am determined to carve a path that leaves a lasting legacy in the world of technology.
                 </p>
               
             </div>
