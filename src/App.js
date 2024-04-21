@@ -6,6 +6,7 @@ import Skills from './Skills';
 import Portfolio from './Portfolio';
 import Contact from './Contact';
 import About from './About';
+import Footer from './Footer';
 import React, { useEffect } from "react";
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
       <Portfolio />
       <About />
       <Contact />
+      <Footer />
     </div>
   );
 }
