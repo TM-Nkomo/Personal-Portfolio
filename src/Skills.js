@@ -8,7 +8,7 @@ import dvt from "./assets/dvt2.png";
 import strategicThinking from "./assets/thinking1.svg";
 import webres from "./assets/webres2.png";
 import thinking from "./assets/thinking3.png";
-import colorSharp from "./assets/color-sharp.png"
+import colorSharp from "./assets/color-sharp.png";
 
 export default function () {
   const responsive = {
@@ -41,27 +41,27 @@ export default function () {
               <p> Check out what I'm good at!</p>
               <Row>
                 <div className="skill-item">
-                  <img src={thinking} alt="Critical Thinking"/>
+                  <img src={thinking} alt="Critical Thinking" />
                   <h5>Critical Thinking</h5>
                 </div>
                 <div className="skill-item">
-                  <img src={dvt} alt="Development"/>
+                  <img src={dvt} alt="Development" />
                   <h5> Development</h5>
                 </div>
                 <div className="skill-item">
-                  <img src={webres} alt="Responsive Web Design"/>
+                  <img src={webres} alt="Responsive Web Design" />
                   <h5>Responsive Design</h5>
                 </div>
                 <div className="skill-item">
-                  <img src={collab} alt="Collaboration"/>
+                  <img src={collab} alt="Collaboration" />
                   <h5>Teamwork</h5>
                 </div>
                 <div className="skill-item">
-                  <img src={strategicThinking} alt="Strategic Thinking"/>
+                  <img src={strategicThinking} alt="Strategic Thinking" />
                   <h5>Strategic Thinking</h5>
                 </div>
                 <div className="skill-item">
-                  <img src={brand} alt="Branding"/>
+                  <img src={brand} alt="Branding" />
                   <h5>Branding</h5>
                 </div>
               </Row>
@@ -69,7 +69,7 @@ export default function () {
           </Col>
         </Row>
       </Container>
-      <img className="background-img-left" src={colorSharp}/>
+      <img className="background-img-left" src={colorSharp} />
     </section>
   );
 }

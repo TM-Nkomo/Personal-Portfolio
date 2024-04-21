@@ -1,49 +1,49 @@
 .skill {
-    padding: 0 0 50px 0;
-    position: relative;
+  padding: 0 0 50px 0;
+  position: relative;
 }
 
 .skill-box {
- border-radius: 64px;
- background-color: rgba(87, 20, 87, 0.945) !important;
- text-align: center;
- padding: 50px 40px;
- margin-top: -50px;
+  border-radius: 64px;
+  background-color: rgba(87, 20, 87, 0.945) !important;
+  text-align: center;
+  padding: 50px 40px;
+  margin-top: -50px;
 }
 
 .skill h2 {
-    font-size: 45px;
-    font-weight: 700;
+  font-size: 45px;
+  font-weight: 700;
 }
 
 .skill p {
-    color: #888;
-    font-size: 18px;
-    letter-spacing: 0.8px;
-    line-height: 1.5em;
-    margin: 14px 0 75px 0;
+  color: #888;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin: 14px 0 75px 0;
 }
 
-.skill-slider{
-    width: 80%;
-    margin: 0 auto;
-    position: relative;
+.skill-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
 }
 
 .skill-item {
-    width: 33.3%;
+  width: 33.3%;
 }
 
 .skill-box img {
-    width: 60%;
-    height: 60%;
-    margin: 15% 5% 5% 5%;
+  width: 60%;
+  height: 60%;
+  margin: 15% 5% 5% 5%;
 }
 
 .background-img-left {
-    top: 20%;
-    bottom: 0;
-    position: absolute;
-    width: 40%;
-    z-index:-4;
+  top: 20%;
+  bottom: 0;
+  position: absolute;
+  width: 40%;
+  z-index: -4;
 }
