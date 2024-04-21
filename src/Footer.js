@@ -4,7 +4,7 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-export default function () {
+export const Footer = () => {
   return (
     <footer className="footer" id="footer">
       <Container>
@@ -32,3 +32,5 @@ export default function () {
     </footer>
   );
 }
+
+export default Footer;

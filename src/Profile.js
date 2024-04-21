@@ -1,5 +1,4 @@
 import React from "react";
-import { useState, useEffect } from "react";
 import Typical from "react-typical";
 import { Container, Row, Col } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
@@ -8,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./styles/Profile.css";
 import headerImg from "./assets/header-img.svg";
 
-export default function () {
+export const Profile = () => {
   return (
     <section className="profile" id="home">
       <Container>
@@ -56,10 +55,12 @@ export default function () {
             </span>
           </Col>
           <Col xs={12} md={6} xl={5}>
-            <img src={headerImg} alt="Header Image" />
+            <img src={headerImg} alt="Header" />
           </Col>
         </Row>
       </Container>
     </section>
   );
 }
+
+export default Profile;

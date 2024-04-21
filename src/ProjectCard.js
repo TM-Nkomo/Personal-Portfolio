@@ -4,7 +4,7 @@ export const ProjectCard = ({ title, description, imgUrl, link }) => {
   return (
     <Col>
       <div className="proj-img">
-        <img src={imgUrl} />
+        <img src={imgUrl} alt="Awesome Project"/>
         <div className="proj-text">
           <h4>{title}</h4>
           <span>{description}</span>
@@ -17,3 +17,5 @@ export const ProjectCard = ({ title, description, imgUrl, link }) => {
     </Col>
   );
 };
+
+export default ProjectCard;

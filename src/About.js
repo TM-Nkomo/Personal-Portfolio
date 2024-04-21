@@ -3,7 +3,7 @@ import "react-multi-carousel/lib/styles.css";
 import "./styles/About.css";
 import colorSharp from "./assets/color-sharp.png";
 
-export default function () {
+export const About = () => {
   return (
     <section className="about" id="about">
       <Container>
@@ -61,7 +61,9 @@ export default function () {
           </Col>
         </Row>
       </Container>
-      <img className="background-img-left" src={colorSharp} />
+      <img className="background-img-left" src={colorSharp} alt="background"/>
     </section>
   );
 }
+
+export default About;
