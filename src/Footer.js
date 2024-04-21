@@ -12,7 +12,7 @@ export default function () {
         <Row className="align-items-center">
           <Col sm={6}>
             <h2>Thanks for Visiting!</h2>
-            <h4>Made with Love  </h4>
+            <h4>made with love  </h4>
           </Col>
           <Col sm={6} className="text-center text-sm-end">
             <div className="social-icon">

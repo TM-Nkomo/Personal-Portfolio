@@ -18,7 +18,6 @@
 }
 
 /* DEFAULT STYLES */
-
 * {
   margin: 0;
   padding: 0;
@@ -38,6 +37,25 @@ body {
   background-color: #121212 !important;
   color: #ffffff !important;
   font-family: "Centra", sans-serif !important; 
+}
+
+body::-webkit-scrollbar {
+  width: 6px;
+}
+
+body::-webkit-scrollbar-track {
+  background: purple;
+  border:  purple 1px solid;
+  border-radius: 15px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 25px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: grey;
 }
 
 h1, h2,h3, h4, h5, h6 {

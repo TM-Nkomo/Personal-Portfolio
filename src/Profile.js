@@ -35,23 +35,23 @@ export default function () {
                 ]}
               />
             </span>
-            <h1>{"Hi! I'm Michelle"}</h1>
-            <p>
-              I'm a Full Stack Software Developer based in Johannesburg. I love
-              designing and coding user-friendly software solutions. Nice to meet you!
-            </p>
-            <span className="action-btns">
-            <a href="TM%20Nkomo%20Resume.pdf" download="TM Nkomo Resume.pdf">
-              <button>
-                Save Resume
-                <FontAwesomeIcon icon={faDownload} />
-              </button>
-              
-            </a>
-              <button>
-              <a href="#connect" className="contact-btn">Contact Me <ArrowRightCircle size={25} /></a>{" "}
-            </button>
-            </span>
+              <h1>{"Hi! I'm Michelle"}</h1>
+              <p>
+                I'm a Full Stack Software Developer based in Johannesburg. I love
+                designing and coding user-friendly software solutions. Nice to meet you!
+              </p>
+              <span className="action-btns">
+              <a href="TM%20Nkomo%20Resume.pdf" download="TM Nkomo Resume.pdf">
+                <button>
+                  Save Resume
+                  <FontAwesomeIcon icon={faDownload} />
+                </button>
+                
+              </a>
+                <a href="#connect" className="contact-btn"><button>
+                Contact Me <ArrowRightCircle/>
+              </button></a>
+              </span>
           </Col>
           <Col xs={12} md={6} xl={5}>
             <img src={headerImg} alt="Header Image" />
